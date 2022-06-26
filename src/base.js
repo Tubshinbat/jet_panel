@@ -1,6 +1,6 @@
 const myBase = {
   cdnUrl: "https://jetschool.edu.mn/cdn/",
-  baseUrl: "https://jetschool.edu.mn/admin/",
+  baseUrl: "https://jetschool.edu.mn/admin",
   siteUrl: "https://jetschool.edu.mn/",
   // cdnUrl: "http://localhost:8000/",
   // baseUrl: "http://localhost:3001/",
