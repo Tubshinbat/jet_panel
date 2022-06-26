@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: "Roboto", sans-serif !important;
+}
+
+#custom-tabs-four-tab .nav-item a {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.card-primary.card-outline-tabs > .card-header a.active {
+  border-top: 3px solid #677685;
+}
+#custom-tabs-four-tab .nav-item a {
+  color: rgb(44, 44, 44);
+  padding: 10px 20px;
+}
+#custom-tabs-four-tab .nav-item a.active {
+  color: #054680;
+}
+.form-group p {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  color: rgb(59, 49, 49);
+  font-weight: 500;
+}
+
+.form-group input {
+  font-size: 0.8rem;
+  padding-left: 14px;
+}
+
+.redText {
+  color: red;
+}
